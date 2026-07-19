@@ -1,8 +1,8 @@
 # SpaceSync
 
-**Live Demo:** [spacesyncweb.netlify.app](https://spacesyncweb.netlify.app)
-
 SpaceSync is a real-time collaborative web application designed to help roommates seamlessly manage their shared living spaces. It provides instant synchronization for supplies, chores, and to-do lists, ensuring everyone in the house stays on the same page.
+
+### [Live Demo](https://spacesyncweb.netlify.app)
 
 ## Features
 
